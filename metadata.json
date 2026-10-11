@@ -1,0 +1,6 @@
+{
+  "name": "Robô CEO Mercado Livre - Correção OAuth PKCE",
+  "description": "Suporte e correção do fluxo OAuth 2.0 PKCE para Netlify Functions do Robô CEO Mercado Livre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
